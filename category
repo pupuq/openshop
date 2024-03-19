@@ -30,5 +30,101 @@
     "price": "899.00",
     "originalprice": "999.00",
     "discount": "10% OFF"
+  },
+{
+    "id": "5",
+    "image": "https://img.openshop.com.hk/s2/202207/62df5973952b9.jpg",
+    "title": "ROG Spatha X 無線電競滑鼠 + ROG Falchion 無線機械式電競鍵盤（青軸英文）Combo組合 Netvigator打機神線",
+    "price": "2479.00",
+    "originalprice": "2479.00",
+    "discount": "0% OFF"
+  },
+{
+    "id": "6",
+    "image": "https://img.openshop.com.hk/s2/202207/62d78a5431113.jpg",
+    "title": "Razer Chroma Mini ITX Bundle 組合包",
+    "price": "3258.00",
+    "originalprice": "3258.00",
+    "discount": "0% OFF"
+  },
+{
+    "id": "7",
+    "image": "https://img.openshop.com.hk/s2/202207/62c7ba020e14d.jpg",
+    "title": "Corsair 3合1電競套裝( K60 + Harpoon + MM300)",
+    "price": "790.00",
+    "originalprice": "790.00",
+    "discount": "0% OFF"
+  },
+{
+    "id": "8",
+    "image": "https://img.openshop.com.hk/s2/202204/626a172279f69.jpg",
+    "title": "Razer DeathAdder Essential滑鼠 +Goliathus 滑鼠墊 組合包 (Hello Kitty and Friends Edition 限定版)",
+    "price": "399.00",
+    "originalprice": "499.00",
+    "discount": "20% OFF"
+  },
+{
+    "id": "9",
+    "image": "https://img.openshop.com.hk/s2/202204/6254254a99593.jpg",
+    "title": "Maxell 2.4 Wireless Keyboard + Mouse Set 無線鍵盤滑鼠套裝 (MXKB-WL10+MXMU-WL10)",
+    "price": "148.00",
+    "originalprice": "148.00",
+    "discount": "0% OFF"
+  },
+{
+    "id": "10",
+    "image": "https://img.openshop.com.hk/upload/202201/61efa4d1618d6.jpg",
+    "title": "Microsoft Sculpt Comfort Desktop 鍵盤滑鼠組合",
+    "price": "399.00",
+    "originalprice": "499.00",
+    "discount": "20% OFF"
+  },
+{
+    "id": "11",
+    "image": "https://img.openshop.com.hk/upload/202201/61ef855a2591e.jpg",
+    "title": "Microsoft Sculpt Ergonomic Desktop 分離式鍵盤滑鼠組合",
+    "price": "678.00",
+    "originalprice": "899.00",
+    "discount": "24% OFF"
+  },
+{
+    "id": "12",
+    "image": "https://img.openshop.com.hk/upload/202112/61a88b34dabb4.jpg",
+    "title": "SteelSeries Rival 95 mouse & Qck mini mat Bundle組合包(66012)",
+    "price": "99.00",
+    "originalprice": "499.00",
+    "discount": "80% OFF"
+  },
+{
+    "id": "13",
+    "image": "https://img.openshop.com.hk/upload/202110/616e7a3abd654.jpg",
+    "title": "MSI VIGOR GK30 COMBO 中文白色版 電競鍵盤滑鼠組合 (GK30+GM11)",
+    "price": "339.00",
+    "originalprice": "430.00",
+    "discount": "21% OFF"
+  },
+{
+    "id": "14",
+    "image": "https://img.openshop.com.hk/upload/202106/60bddd78f10ad.png",
+    "title": "Gigabyte RTX3080 Ti GAMING OC 12G+Gigabyte Aorus FI32U Monitor",
+    "price": "25999.00",
+    "originalprice": "25999.00",
+    "discount": "0% OFF"
+  },
+{
+    "id": "15",
+    "image": "https://img.openshop.com.hk/s2/202209/6311a6470d5a0.png",
+    "title": "Corsair K55+Katar Pro Combo 電競套裝",
+    "price": "499.00",
+    "originalprice": "499.00",
+    "discount": "0% OFF"
+  },
+{
+    "id": "16",
+    "image": "https://img.openshop.com.hk/upload/202103/604c4450a65e5.jpg",
+    "title": "iCLEVER IC-GK03 2.4G無線鍵盤滑鼠套裝(黑色)",
+    "price": "220.00",
+    "originalprice": "280.00",
+    "discount": "21% OFF"
   }
 ]
